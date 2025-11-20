@@ -1,0 +1,1190 @@
+[
+  {
+    "chapter": 2,
+    "exercise": "8",
+    "page": 58,
+    "image": "data/images/ch2_ex8_p58_0.png",
+    "bbox": [
+      420,
+      1576,
+      2481,
+      2597
+    ]
+  },
+  {
+    "chapter": 2,
+    "exercise": "13",
+    "page": 60,
+    "image": "data/images/ch2_ex13_p60_0.png",
+    "bbox": [
+      392,
+      301,
+      2481,
+      2419
+    ]
+  },
+  {
+    "chapter": 2,
+    "exercise": "14",
+    "page": 60,
+    "image": "data/images/ch2_ex14_p60_1.png",
+    "bbox": [
+      420,
+      1913,
+      2407,
+      2506
+    ]
+  },
+  {
+    "chapter": 2,
+    "exercise": "15",
+    "page": 60,
+    "image": "data/images/ch2_ex15_p60_2.png",
+    "bbox": [
+      420,
+      2030,
+      2481,
+      3111
+    ]
+  },
+  {
+    "chapter": 3,
+    "exercise": "9",
+    "page": 82,
+    "image": "data/images/ch3_ex9_p82_0.png",
+    "bbox": [
+      420,
+      423,
+      2481,
+      1216
+    ]
+  },
+  {
+    "chapter": 3,
+    "exercise": "10",
+    "page": 82,
+    "image": "data/images/ch3_ex10_p82_1.png",
+    "bbox": [
+      420,
+      750,
+      2481,
+      1889
+    ]
+  },
+  {
+    "chapter": 3,
+    "exercise": "11",
+    "page": 82,
+    "image": "data/images/ch3_ex11_p82_2.png",
+    "bbox": [
+      420,
+      1418,
+      2402,
+      3008
+    ]
+  },
+  {
+    "chapter": 4,
+    "exercise": "7",
+    "page": 110,
+    "image": "data/images/ch4_ex7_p110_0.png",
+    "bbox": [
+      420,
+      1331,
+      2481,
+      2751
+    ]
+  },
+  {
+    "chapter": 4,
+    "exercise": "9",
+    "page": 112,
+    "image": "data/images/ch4_ex9_p112_0.png",
+    "bbox": [
+      420,
+      296,
+      2481,
+      2609
+    ]
+  },
+  {
+    "chapter": 4,
+    "exercise": "2",
+    "page": 112,
+    "image": "data/images/ch4_ex2_p112_1.png",
+    "bbox": [
+      588,
+      2107,
+      2481,
+      3111
+    ]
+  },
+  {
+    "chapter": 4,
+    "exercise": "3",
+    "page": 112,
+    "image": "data/images/ch4_ex3_p112_2.png",
+    "bbox": [
+      588,
+      2607,
+      2481,
+      3111
+    ]
+  },
+  {
+    "chapter": 5,
+    "exercise": "1",
+    "page": 144,
+    "image": "data/images/ch5_ex1_p144_0.png",
+    "bbox": [
+      420,
+      633,
+      2479,
+      3111
+    ]
+  },
+  {
+    "chapter": 5,
+    "exercise": "11",
+    "page": 146,
+    "image": "data/images/ch5_ex11_p146_0.png",
+    "bbox": [
+      420,
+      297,
+      2481,
+      1074
+    ]
+  },
+  {
+    "chapter": 5,
+    "exercise": "12",
+    "page": 146,
+    "image": "data/images/ch5_ex12_p146_1.png",
+    "bbox": [
+      420,
+      601,
+      2423,
+      1382
+    ]
+  },
+  {
+    "chapter": 5,
+    "exercise": "13",
+    "page": 146,
+    "image": "data/images/ch5_ex13_p146_2.png",
+    "bbox": [
+      420,
+      915,
+      2481,
+      2006
+    ]
+  },
+  {
+    "chapter": 5,
+    "exercise": "14",
+    "page": 146,
+    "image": "data/images/ch5_ex14_p146_3.png",
+    "bbox": [
+      420,
+      1534,
+      2199,
+      2709
+    ]
+  },
+  {
+    "chapter": 5,
+    "exercise": "15",
+    "page": 146,
+    "image": "data/images/ch5_ex15_p146_4.png",
+    "bbox": [
+      420,
+      2254,
+      2481,
+      3020
+    ]
+  },
+  {
+    "chapter": 5,
+    "exercise": "20",
+    "page": 148,
+    "image": "data/images/ch5_ex20_p148_0.png",
+    "bbox": [
+      420,
+      299,
+      2481,
+      2165
+    ]
+  },
+  {
+    "chapter": 5,
+    "exercise": "22",
+    "page": 148,
+    "image": "data/images/ch5_ex22_p148_1.png",
+    "bbox": [
+      420,
+      1691,
+      2481,
+      3111
+    ]
+  },
+  {
+    "chapter": 5,
+    "exercise": "1",
+    "page": 150,
+    "image": "data/images/ch5_ex1_p150_0.png",
+    "bbox": [
+      593,
+      486,
+      1897,
+      1079
+    ]
+  },
+  {
+    "chapter": 5,
+    "exercise": "2",
+    "page": 150,
+    "image": "data/images/ch5_ex2_p150_1.png",
+    "bbox": [
+      588,
+      612,
+      2103,
+      1205
+    ]
+  },
+  {
+    "chapter": 5,
+    "exercise": "3",
+    "page": 150,
+    "image": "data/images/ch5_ex3_p150_2.png",
+    "bbox": [
+      588,
+      729,
+      2481,
+      1443
+    ]
+  },
+  {
+    "chapter": 5,
+    "exercise": "4",
+    "page": 150,
+    "image": "data/images/ch5_ex4_p150_3.png",
+    "bbox": [
+      586,
+      971,
+      2087,
+      1565
+    ]
+  },
+  {
+    "chapter": 5,
+    "exercise": "5",
+    "page": 150,
+    "image": "data/images/ch5_ex5_p150_4.png",
+    "bbox": [
+      588,
+      1093,
+      2481,
+      1994
+    ]
+  },
+  {
+    "chapter": 5,
+    "exercise": "6",
+    "page": 150,
+    "image": "data/images/ch5_ex6_p150_5.png",
+    "bbox": [
+      588,
+      1518,
+      2477,
+      2172
+    ]
+  },
+  {
+    "chapter": 5,
+    "exercise": "7",
+    "page": 150,
+    "image": "data/images/ch5_ex7_p150_6.png",
+    "bbox": [
+      588,
+      1700,
+      2481,
+      2920
+    ]
+  },
+  {
+    "chapter": 6,
+    "exercise": "1",
+    "page": 188,
+    "image": "data/images/ch6_ex1_p188_0.png",
+    "bbox": [
+      420,
+      630,
+      2481,
+      2632
+    ]
+  },
+  {
+    "chapter": 6,
+    "exercise": "10",
+    "page": 190,
+    "image": "data/images/ch6_ex10_p190_0.png",
+    "bbox": [
+      420,
+      303,
+      2428,
+      999
+    ]
+  },
+  {
+    "chapter": 6,
+    "exercise": "11",
+    "page": 190,
+    "image": "data/images/ch6_ex11_p190_1.png",
+    "bbox": [
+      420,
+      526,
+      2481,
+      1312
+    ]
+  },
+  {
+    "chapter": 6,
+    "exercise": "12",
+    "page": 190,
+    "image": "data/images/ch6_ex12_p190_2.png",
+    "bbox": [
+      420,
+      837,
+      2248,
+      1894
+    ]
+  },
+  {
+    "chapter": 6,
+    "exercise": "13",
+    "page": 190,
+    "image": "data/images/ch6_ex13_p190_3.png",
+    "bbox": [
+      420,
+      1427,
+      2481,
+      2207
+    ]
+  },
+  {
+    "chapter": 6,
+    "exercise": "14",
+    "page": 190,
+    "image": "data/images/ch6_ex14_p190_4.png",
+    "bbox": [
+      420,
+      1733,
+      2481,
+      2791
+    ]
+  },
+  {
+    "chapter": 6,
+    "exercise": "17",
+    "page": 192,
+    "image": "data/images/ch6_ex17_p192_0.png",
+    "bbox": [
+      420,
+      301,
+      2481,
+      1875
+    ]
+  },
+  {
+    "chapter": 6,
+    "exercise": "18",
+    "page": 192,
+    "image": "data/images/ch6_ex18_p192_1.png",
+    "bbox": [
+      420,
+      1404,
+      2481,
+      2639
+    ]
+  },
+  {
+    "chapter": 6,
+    "exercise": "22",
+    "page": 194,
+    "image": "data/images/ch6_ex22_p194_0.png",
+    "bbox": [
+      420,
+      1418,
+      2481,
+      3066
+    ]
+  },
+  {
+    "chapter": 6,
+    "exercise": "23",
+    "page": 194,
+    "image": "data/images/ch6_ex23_p194_1.png",
+    "bbox": [
+      420,
+      2602,
+      2477,
+      3111
+    ]
+  },
+  {
+    "chapter": 7,
+    "exercise": "1",
+    "page": 218,
+    "image": "data/images/ch7_ex1_p218_0.png",
+    "bbox": [
+      420,
+      629,
+      2481,
+      3111
+    ]
+  },
+  {
+    "chapter": 7,
+    "exercise": "10",
+    "page": 220,
+    "image": "data/images/ch7_ex10_p220_0.png",
+    "bbox": [
+      420,
+      939,
+      2481,
+      1903
+    ]
+  },
+  {
+    "chapter": 7,
+    "exercise": "11",
+    "page": 220,
+    "image": "data/images/ch7_ex11_p220_1.png",
+    "bbox": [
+      420,
+      1432,
+      2481,
+      2637
+    ]
+  },
+  {
+    "chapter": 7,
+    "exercise": "13",
+    "page": 220,
+    "image": "data/images/ch7_ex13_p220_2.png",
+    "bbox": [
+      420,
+      2160,
+      2481,
+      3057
+    ]
+  },
+  {
+    "chapter": 7,
+    "exercise": "16",
+    "page": 222,
+    "image": "data/images/ch7_ex16_p222_0.png",
+    "bbox": [
+      420,
+      303,
+      2458,
+      2085
+    ]
+  },
+  {
+    "chapter": 7,
+    "exercise": "17",
+    "page": 222,
+    "image": "data/images/ch7_ex17_p222_1.png",
+    "bbox": [
+      420,
+      1633,
+      2481,
+      2709
+    ]
+  },
+  {
+    "chapter": 7,
+    "exercise": "18",
+    "page": 222,
+    "image": "data/images/ch7_ex18_p222_2.png",
+    "bbox": [
+      420,
+      2254,
+      2481,
+      3111
+    ]
+  },
+  {
+    "chapter": 8,
+    "exercise": "1",
+    "page": 248,
+    "image": "data/images/ch8_ex1_p248_0.png",
+    "bbox": [
+      418,
+      1698,
+      2481,
+      3055
+    ]
+  },
+  {
+    "chapter": 8,
+    "exercise": "10",
+    "page": 250,
+    "image": "data/images/ch8_ex10_p250_0.png",
+    "bbox": [
+      420,
+      544,
+      2481,
+      1501
+    ]
+  },
+  {
+    "chapter": 8,
+    "exercise": "11",
+    "page": 250,
+    "image": "data/images/ch8_ex11_p250_1.png",
+    "bbox": [
+      420,
+      1030,
+      2334,
+      1931
+    ]
+  },
+  {
+    "chapter": 8,
+    "exercise": "12",
+    "page": 250,
+    "image": "data/images/ch8_ex12_p250_2.png",
+    "bbox": [
+      420,
+      1474,
+      2229,
+      2069
+    ]
+  },
+  {
+    "chapter": 8,
+    "exercise": "13",
+    "page": 250,
+    "image": "data/images/ch8_ex13_p250_3.png",
+    "bbox": [
+      420,
+      1597,
+      2481,
+      2436
+    ]
+  },
+  {
+    "chapter": 8,
+    "exercise": "14",
+    "page": 250,
+    "image": "data/images/ch8_ex14_p250_4.png",
+    "bbox": [
+      420,
+      1962,
+      2481,
+      3041
+    ]
+  },
+  {
+    "chapter": 8,
+    "exercise": "19",
+    "page": 252,
+    "image": "data/images/ch8_ex19_p252_0.png",
+    "bbox": [
+      420,
+      299,
+      2481,
+      1268
+    ]
+  },
+  {
+    "chapter": 8,
+    "exercise": "20",
+    "page": 252,
+    "image": "data/images/ch8_ex20_p252_1.png",
+    "bbox": [
+      420,
+      794,
+      2481,
+      2910
+    ]
+  },
+  {
+    "chapter": 9,
+    "exercise": "12",
+    "page": 280,
+    "image": "data/images/ch9_ex12_p280_0.png",
+    "bbox": [
+      420,
+      296,
+      2481,
+      1506
+    ]
+  },
+  {
+    "chapter": 9,
+    "exercise": "13",
+    "page": 280,
+    "image": "data/images/ch9_ex13_p280_1.png",
+    "bbox": [
+      420,
+      1154,
+      2481,
+      1868
+    ]
+  },
+  {
+    "chapter": 9,
+    "exercise": "14",
+    "page": 280,
+    "image": "data/images/ch9_ex14_p280_2.png",
+    "bbox": [
+      420,
+      1399,
+      2481,
+      2249
+    ]
+  },
+  {
+    "chapter": 9,
+    "exercise": "15",
+    "page": 280,
+    "image": "data/images/ch9_ex15_p280_3.png",
+    "bbox": [
+      420,
+      1780,
+      2470,
+      3024
+    ]
+  },
+  {
+    "chapter": 9,
+    "exercise": "19",
+    "page": 282,
+    "image": "data/images/ch9_ex19_p282_0.png",
+    "bbox": [
+      420,
+      303,
+      2481,
+      1235
+    ]
+  },
+  {
+    "chapter": 9,
+    "exercise": "20",
+    "page": 282,
+    "image": "data/images/ch9_ex20_p282_1.png",
+    "bbox": [
+      420,
+      764,
+      2472,
+      1721
+    ]
+  },
+  {
+    "chapter": 9,
+    "exercise": "21",
+    "page": 282,
+    "image": "data/images/ch9_ex21_p282_2.png",
+    "bbox": [
+      420,
+      1305,
+      2481,
+      2810
+    ]
+  },
+  {
+    "chapter": 9,
+    "exercise": "25",
+    "page": 284,
+    "image": "data/images/ch9_ex25_p284_0.png",
+    "bbox": [
+      420,
+      303,
+      2481,
+      1375
+    ]
+  },
+  {
+    "chapter": 9,
+    "exercise": "26",
+    "page": 284,
+    "image": "data/images/ch9_ex26_p284_1.png",
+    "bbox": [
+      420,
+      901,
+      2481,
+      2146
+    ]
+  },
+  {
+    "chapter": 9,
+    "exercise": "27",
+    "page": 284,
+    "image": "data/images/ch9_ex27_p284_2.png",
+    "bbox": [
+      420,
+      1679,
+      2481,
+      3111
+    ]
+  },
+  {
+    "chapter": 9,
+    "exercise": "29",
+    "page": 286,
+    "image": "data/images/ch9_ex29_p286_0.png",
+    "bbox": [
+      420,
+      301,
+      2481,
+      2625
+    ]
+  },
+  {
+    "chapter": 10,
+    "exercise": "8",
+    "page": 332,
+    "image": "data/images/ch10_ex8_p332_0.png",
+    "bbox": [
+      420,
+      1044,
+      2481,
+      2310
+    ]
+  },
+  {
+    "chapter": 10,
+    "exercise": "10",
+    "page": 332,
+    "image": "data/images/ch10_ex10_p332_1.png",
+    "bbox": [
+      420,
+      1836,
+      2481,
+      3111
+    ]
+  },
+  {
+    "chapter": 10,
+    "exercise": "14",
+    "page": 334,
+    "image": "data/images/ch10_ex14_p334_0.png",
+    "bbox": [
+      420,
+      423,
+      2351,
+      2153
+    ]
+  },
+  {
+    "chapter": 10,
+    "exercise": "16",
+    "page": 334,
+    "image": "data/images/ch10_ex16_p334_1.png",
+    "bbox": [
+      420,
+      1677,
+      2481,
+      3111
+    ]
+  },
+  {
+    "chapter": 10,
+    "exercise": "19",
+    "page": 336,
+    "image": "data/images/ch10_ex19_p336_0.png",
+    "bbox": [
+      420,
+      303,
+      2021,
+      1726
+    ]
+  },
+  {
+    "chapter": 10,
+    "exercise": "20",
+    "page": 336,
+    "image": "data/images/ch10_ex20_p336_1.png",
+    "bbox": [
+      420,
+      1270,
+      2481,
+      2202
+    ]
+  },
+  {
+    "chapter": 10,
+    "exercise": "21",
+    "page": 336,
+    "image": "data/images/ch10_ex21_p336_2.png",
+    "bbox": [
+      420,
+      1731,
+      2481,
+      3111
+    ]
+  },
+  {
+    "chapter": 11,
+    "exercise": "1",
+    "page": 356,
+    "image": "data/images/ch11_ex1_p356_0.png",
+    "bbox": [
+      420,
+      1249,
+      2458,
+      2382
+    ]
+  },
+  {
+    "chapter": 11,
+    "exercise": "2",
+    "page": 356,
+    "image": "data/images/ch11_ex2_p356_1.png",
+    "bbox": [
+      418,
+      1913,
+      2479,
+      3052
+    ]
+  },
+  {
+    "chapter": 11,
+    "exercise": "10",
+    "page": 358,
+    "image": "data/images/ch11_ex10_p358_0.png",
+    "bbox": [
+      420,
+      301,
+      2481,
+      1693
+    ]
+  },
+  {
+    "chapter": 11,
+    "exercise": "11",
+    "page": 358,
+    "image": "data/images/ch11_ex11_p358_1.png",
+    "bbox": [
+      420,
+      1224,
+      2481,
+      2380
+    ]
+  },
+  {
+    "chapter": 11,
+    "exercise": "12",
+    "page": 358,
+    "image": "data/images/ch11_ex12_p358_2.png",
+    "bbox": [
+      420,
+      1910,
+      2474,
+      2616
+    ]
+  },
+  {
+    "chapter": 11,
+    "exercise": "13",
+    "page": 358,
+    "image": "data/images/ch11_ex13_p358_3.png",
+    "bbox": [
+      420,
+      2151,
+      2481,
+      3111
+    ]
+  },
+  {
+    "chapter": 12,
+    "exercise": "9",
+    "page": 380,
+    "image": "data/images/ch12_ex9_p380_0.png",
+    "bbox": [
+      420,
+      948,
+      2481,
+      1784
+    ]
+  },
+  {
+    "chapter": 12,
+    "exercise": "10",
+    "page": 380,
+    "image": "data/images/ch12_ex10_p380_1.png",
+    "bbox": [
+      420,
+      1315,
+      2465,
+      1969
+    ]
+  },
+  {
+    "chapter": 12,
+    "exercise": "11",
+    "page": 380,
+    "image": "data/images/ch12_ex11_p380_2.png",
+    "bbox": [
+      416,
+      1495,
+      2481,
+      2333
+    ]
+  },
+  {
+    "chapter": 12,
+    "exercise": "13",
+    "page": 380,
+    "image": "data/images/ch12_ex13_p380_3.png",
+    "bbox": [
+      420,
+      1864,
+      2449,
+      3111
+    ]
+  },
+  {
+    "chapter": 12,
+    "exercise": "16",
+    "page": 382,
+    "image": "data/images/ch12_ex16_p382_0.png",
+    "bbox": [
+      420,
+      301,
+      2481,
+      1686
+    ]
+  },
+  {
+    "chapter": 12,
+    "exercise": "17",
+    "page": 382,
+    "image": "data/images/ch12_ex17_p382_1.png",
+    "bbox": [
+      420,
+      1212,
+      2472,
+      1868
+    ]
+  },
+  {
+    "chapter": 13,
+    "exercise": "12",
+    "page": 398,
+    "image": "data/images/ch13_ex12_p398_0.png",
+    "bbox": [
+      420,
+      301,
+      2481,
+      1737
+    ]
+  },
+  {
+    "chapter": 13,
+    "exercise": "13",
+    "page": 398,
+    "image": "data/images/ch13_ex13_p398_1.png",
+    "bbox": [
+      420,
+      1273,
+      2481,
+      2317
+    ]
+  },
+  {
+    "chapter": 13,
+    "exercise": "14",
+    "page": 398,
+    "image": "data/images/ch13_ex14_p398_2.png",
+    "bbox": [
+      420,
+      1901,
+      2313,
+      3106
+    ]
+  },
+  {
+    "chapter": 13,
+    "exercise": "17",
+    "page": 400,
+    "image": "data/images/ch13_ex17_p400_0.png",
+    "bbox": [
+      420,
+      299,
+      2481,
+      1247
+    ]
+  },
+  {
+    "chapter": 13,
+    "exercise": "18",
+    "page": 400,
+    "image": "data/images/ch13_ex18_p400_1.png",
+    "bbox": [
+      420,
+      733,
+      2481,
+      1735
+    ]
+  },
+  {
+    "chapter": 13,
+    "exercise": "19",
+    "page": 400,
+    "image": "data/images/ch13_ex19_p400_2.png",
+    "bbox": [
+      420,
+      1273,
+      2481,
+      3006
+    ]
+  },
+  {
+    "chapter": 14,
+    "exercise": "5",
+    "page": 430,
+    "image": "data/images/ch14_ex5_p430_0.png",
+    "bbox": [
+      420,
+      971,
+      2481,
+      3111
+    ]
+  },
+  {
+    "chapter": 15,
+    "exercise": "1",
+    "page": 444,
+    "image": "data/images/ch15_ex1_p444_0.png",
+    "bbox": [
+      418,
+      934,
+      2481,
+      3111
+    ]
+  },
+  {
+    "chapter": 17,
+    "exercise": "6",
+    "page": 458,
+    "image": "data/images/ch17_ex6_p458_0.png",
+    "bbox": [
+      420,
+      1035,
+      2474,
+      2569
+    ]
+  },
+  {
+    "chapter": 17,
+    "exercise": "8",
+    "page": 460,
+    "image": "data/images/ch17_ex8_p460_0.png",
+    "bbox": [
+      420,
+      299,
+      2481,
+      3111
+    ]
+  },
+  {
+    "chapter": 19,
+    "exercise": "3",
+    "page": 488,
+    "image": "data/images/ch19_ex3_p488_0.png",
+    "bbox": [
+      418,
+      1607,
+      2481,
+      2384
+    ]
+  },
+  {
+    "chapter": 19,
+    "exercise": "6",
+    "page": 490,
+    "image": "data/images/ch19_ex6_p490_0.png",
+    "bbox": [
+      420,
+      362,
+      2481,
+      1534
+    ]
+  },
+  {
+    "chapter": 19,
+    "exercise": "7",
+    "page": 490,
+    "image": "data/images/ch19_ex7_p490_1.png",
+    "bbox": [
+      420,
+      1053,
+      2481,
+      3111
+    ]
+  },
+  {
+    "chapter": 19,
+    "exercise": "12",
+    "page": 492,
+    "image": "data/images/ch19_ex12_p492_0.png",
+    "bbox": [
+      420,
+      297,
+      2481,
+      3111
+    ]
+  },
+  {
+    "chapter": 20,
+    "exercise": "1",
+    "page": 510,
+    "image": "data/images/ch20_ex1_p510_0.png",
+    "bbox": [
+      635,
+      862,
+      1781,
+      1455
+    ]
+  },
+  {
+    "chapter": 20,
+    "exercise": "2",
+    "page": 510,
+    "image": "data/images/ch20_ex2_p510_1.png",
+    "bbox": [
+      631,
+      950,
+      2362,
+      1607
+    ]
+  },
+  {
+    "chapter": 20,
+    "exercise": "3",
+    "page": 510,
+    "image": "data/images/ch20_ex3_p510_2.png",
+    "bbox": [
+      586,
+      1100,
+      2481,
+      3111
+    ]
+  },
+  {
+    "chapter": 20,
+    "exercise": "6",
+    "page": 512,
+    "image": "data/images/ch20_ex6_p512_0.png",
+    "bbox": [
+      420,
+      1269,
+      2481,
+      3111
+    ]
+  }
+]
