@@ -25,10 +25,26 @@ os.makedirs(OUT_IMAGES, exist_ok=True)
 os.makedirs(os.path.dirname(OUT_INDEX), exist_ok=True)
 
 CHAPTER_EXERCISE_COUNTS = {
-    1: 21,  2: 18,  3: 18,  4: 14,  5: 27,
-    6: 24,  7: 27,  8: 22,  9: 30, 10: 24,
-    11: 14, 12: 17, 13: 19, 14: 17, 15: 10,
-    16: 6,  17: 9,  18: 6,  19: 13, 20: 9
+    1: 21,
+    2: 18,
+    3: 18,
+    4: 14,
+    5: 27,
+    6: 24,
+    7: 27,
+    8: 22,
+    9: 30,
+    10: 24,
+    11: 14,
+    12: 17,
+    13: 19,
+    14: 17,
+    15: 10,
+    16: 6,
+    17: 9,
+    18: 6,
+    19: 13,
+    20: 9,
 }
 
 # Load index
@@ -38,10 +54,6 @@ if os.path.exists(OUT_INDEX):
 else:
     index = []
 
-
-# ===========================
-# HELPERS
-# ===========================
 
 def save_index():
     with open(OUT_INDEX, "w", encoding="utf-8") as f:
@@ -66,7 +78,6 @@ def get_next_exercise(chapter):
     return max(used) + 1
 
 
-
 def next_slot():
     """Return (chapter, exercise) of next available slot."""
     for chap, max_ex in CHAPTER_EXERCISE_COUNTS.items():
@@ -74,6 +85,7 @@ def next_slot():
         if nxt <= max_ex:
             return chap, nxt
     return None, None
+
 
 def grab_clipboard_image():
     """
@@ -84,7 +96,7 @@ def grab_clipboard_image():
         p = subprocess.Popen(
             ["xclip", "-selection", "clipboard", "-t", "image/png", "-o"],
             stdout=subprocess.PIPE,
-            stderr=subprocess.PIPE
+            stderr=subprocess.PIPE,
         )
         data, _ = p.communicate()
         if not data:
@@ -93,10 +105,6 @@ def grab_clipboard_image():
     except Exception:
         return None
 
-
-# ===========================
-# GUI LOGIC
-# ===========================
 
 class CollectorGUI:
     def __init__(self):
@@ -117,8 +125,9 @@ class CollectorGUI:
         self.chapter_entry.bind("<KeyRelease>", self.update_exercise_only)
 
         # Paste button
-        self.paste_button = tk.Button(self.root, text="Paste Screenshot (Ctrl+V)", 
-                                      command=self.handle_paste)
+        self.paste_button = tk.Button(
+            self.root, text="Paste Screenshot (Ctrl+V)", command=self.handle_paste
+        )
         self.paste_button.grid(row=2, column=0, columnspan=2, pady=10)
 
         # Preview
@@ -214,12 +223,14 @@ class CollectorGUI:
         img.save(filepath)
 
         # Append to index
-        index.append({
-            "chapter": chapter,
-            "exercise": str(exercise),
-            "ocr": ocr,
-            "image": f"data/images/{filename}"
-        })
+        index.append(
+            {
+                "chapter": chapter,
+                "exercise": str(exercise),
+                "ocr": ocr,
+                "image": f"data/images/{filename}",
+            }
+        )
 
         save_index()
 
@@ -229,25 +240,5 @@ class CollectorGUI:
         self.set_next_available()
 
 
-# ===========================
-# MAIN
-# ===========================
-
 if __name__ == "__main__":
     CollectorGUI()
-
-
-[
-  {
-    "chapter": 2,
-    "exercise": "8",
-    "page": 58,
-    "image": "data/images/ch2_ex8_p58_0.png",
-    "bbox": [
-      420,
-      1576,
-      2481,
-      2597
-    ]
-  }
-]
