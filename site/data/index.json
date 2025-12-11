@@ -100,5 +100,137 @@
     "exercise": "17",
     "ocr": "17.\u00b0\n\nIn the game of Nim, stones are arranged in piles of arbitrary size. Each\nplayer in turn takes a few stones from any one pile. Every player must take\nat least one stone on every turn. The player who takes the last stone wins.\n\nGames of this type always have a winning strategy. This strategy can be\nestablished by tagging all possible positions in the game with two tags,\n\u201cplus\u201d and \u201cminus,\u201d in such a way that any move from a \u201cplus\u201d position\nalways leads to a \u201cminus\u201d position, and from any \u201cminus\u201d position there is\nalways a possible move into some \u201cplus\u201d position. The final winning\nposition must be tagged \u201cplus.\u201d Therefore, if the first player begins in a\n\u201cminus\u201d position, she can win by moving right away into a \u201cplus\u201d position\nand returning to a \u201cplus\u201d position on each subsequent move. If, however, the\nfirst player begins in a \u201cplus\u201d position, then the second player can win,\nprovided he knows how to play correctly.\n\nIn Nim, we can convert the number of stones in each pile into a binary\nnumber and write these binary numbers in one column (so that the \u201cunits\u201d\ndigits are aligned on the right). We can tag the position \u201cplus\u201d if the number\nof 1s in each column is even and \u201cminus\u201d if the count of 1s in at least one\ncolumn is odd. Prove that this method of tagging \u201cplus\u201d and \u201cminus\u201d\npositions defines a winning strategy. Who wins starting with four piles of 1,\n3, 5, and 7 stones \u2014 the first or the second player? What's the correct\nresponse if the first player takes five stones from the pile of 7?\n",
     "image": "data/images/ch1_ex17_0.png"
+  },
+  {
+    "chapter": 1,
+    "exercise": "18",
+    "ocr": "18.\u00a2\n\nThe table below is called a Greco-Roman square: each of the three Latin\nletters occurs exactly once in each row and each column; the same is true for\neach of the three Greek letters; and each Latin-Greek combination occurs\nexactly once in the table:\n\nAy | Ba | CB\nBp | Cy | Aa\nCa | AB | By\n\nSubstitute the digits 0, 1, and 2 for A, B, C and for ar, B, y (in any order).\nConvert the resulting base-3 numbers into decimal (base-10) numbers. The\nbase-3 system uses only three digits: 0, 1, and 2. The numbers are\nrepresented as follows:\n\nDecimal Base 3\n\nAdd 1 to each number, You will geta table in which the numbers 1 through\n9/are arranged in such a way that the sum of the numbers in each row and\ncolumn is the same. Explain why you get this result and find a way to\nsubstitute the digits 0, 1, and 2 for letters so that the sum of numbers in each\nof the two diagonals is also the same as in the rows and columns. What you\nget then is called a magic square. Using a similar method, build a 5 by 5\nmagic square.\n",
+    "image": "data/images/ch1_ex18_0.png"
+  },
+  {
+    "chapter": 1,
+    "exercise": "19",
+    "ocr": "19.\n\n(MC) What does TCP stand for?\n\nTelnet Control Program\nTransmission Control Protocol\nTransport Compression Protocol\nTelephone Connectivity Program\nNone of the above\n\nmoow>\n",
+    "image": "data/images/ch1_ex19_0.png"
+  },
+  {
+    "chapter": 1,
+    "exercise": "20",
+    "ocr": "20.\n\nAre the following entities or devices hardware (H) or software (S)?\n\n(a)\n(b)\n(\u00a9)\n(a)\n()\n(o\"\n\nHost v\nLAN\nBrowser\n\nTCP/IP Adapter v\n",
+    "image": "data/images/ch1_ex20_0.png"
+  },
+  {
+    "chapter": 1,
+    "exercise": "21",
+    "ocr": "21. Find and explore the web pages about Internet and World Wide Web\npioneers.\n",
+    "image": "data/images/ch1_ex21_0.png"
+  },
+  {
+    "chapter": 2,
+    "exercise": "1",
+    "ocr": "Which of the following are the advantages of using a high-level\nprogramming language, as opposed to a machine language? Mark true or\nfalse:\n\n(a) tis easier to write programs.\n\n(b) It is easier to read and understand programs.\n\n(\u00a9) Programs run more efficiently. v\n\n(d) Programs can be ported more easily from one hardware platform to\nanother.\n\n",
+    "image": "data/images/ch2_ex1_0.png"
+  },
+  {
+    "chapter": 2,
+    "exercise": "2",
+    "ocr": "\u2018Name four commonly used programming languages besides Java.\n",
+    "image": "data/images/ch2_ex2_0.png"
+  },
+  {
+    "chapter": 2,
+    "exercise": "3",
+    "ocr": "Mark true or false and explain:\n\n(a) The operating system compiles source files into bytecode or executable\nprograms.\n\n(b) Each modern computer system is equipped with a compiler. v\n",
+    "image": "data/images/ch2_ex3_0.png"
+  },
+  {
+    "chapter": 2,
+    "exercise": "4",
+    "ocr": "4. (MC) Which program helps programmers enter and modify source code?\n\nA. Editor B. Compiler C. Linker \u2014_D._ Interpreter\nE. None of the above\n",
+    "image": "data/images/ch2_ex4_0.png"
+  },
+  {
+    "chapter": 2,
+    "exercise": "5",
+    "ocr": "(MC) What is a debugger used for?\n\nRemoving comments from the source code\nRunning and tracing programs in a controlled way\nRunning diagnostics of hardware components\nRemoving syntax errors from Java programs\nRemoving dust from the computer screen\n\nmMonwp\n",
+    "image": "data/images/ch2_ex5_0.png"
+  },
+  {
+    "chapter": 2,
+    "exercise": "6",
+    "ocr": "6.\n\nTrue or false: a modem IDE provides a GUI front end for an editor,\ncompiler, debugger, and other software development tools. v\n",
+    "image": "data/images/ch2_ex6_0.png"
+  },
+  {
+    "chapter": 2,
+    "exercise": "7",
+    "ocr": "7. Describe the differences between a compiler, a JIT compiler, and an\ninterpreter.\n",
+    "image": "data/images/ch2_ex7_0.png"
+  },
+  {
+    "chapter": 2,
+    "exercise": "8",
+    "ocr": "(a) Replace the forward slash in the first line of the Hie1 lovior 1d program\nwith a backslash. Compile your program and observe the result.\n\n(b) Remove the first three lines altogether. Compile and run your\nprogram. What is the purpose of the /* and * / markers in Java\n\nprograms?\n",
+    "image": "data/images/ch2_ex8_0.png"
+  },
+  {
+    "chapter": 2,
+    "exercise": "9",
+    "ocr": "9. Write a program that generates the following output:\n\n",
+    "image": "data/images/ch2_ex9_0.png"
+  },
+  {
+    "chapter": 2,
+    "exercise": "10",
+    "ocr": "10.\n\nNavigate your browser to Oracle\u2019s Java API (Application Programming\nInterface) documentation web site (http: //docs .oracle.com/javase/)\nor, if you have the JDK documentation installed on your computer, open the\nfile<uDK base folder>/docs/api/index.html.\n\nFind the description of the Color class. What color constants (Color .RED,\nColor. BLUE, etc.) are defined in that class? ~\n",
+    "image": "data/images/ch2_ex10_0.png"
+  },
+  {
+    "chapter": 2,
+    "exercise": "11",
+    "ocr": "11. Write a program that asks the user a \u201cwhat-is-your-favorite\u201d question and\nthen displays a nice (or a nasty) comment that incorporates the user\u2019s answer.\nFor example (user input is shown in bold):\n\nWhat is your favorite movie? Frozen\nI think Frozen is a terrible movie!\nJust kidding! I like Frozen, too.\n\n< Hint: Use Greetings? from Lab 2.4 as a prototype. >\n",
+    "image": "data/images/ch2_ex11_0.png"
+  },
+  {
+    "chapter": 2,
+    "exercise": "12",
+    "ocr": "12. Write a program that displays\n\nHead, shoulders, knees, and toes,\nHead, shoulders, knees, and toes,\n\nAnd eyes, and ears, and mouth, and nose,\n\nHead, shoulders, knees, and toes,\n\nand toes,\nand toes,\n\nand toes\n\nthree times. \u00a2 Hint: Java has a for statement that lets you repeat the same\n\ngroup of statements several times. For example:\n\nfor (int count\n\u2018\n\n< do something >\n)\n\n1; count\n\ncount++)\n",
+    "image": "data/images/ch2_ex12_0.png"
+  },
+  {
+    "chapter": 2,
+    "exercise": "13",
+    "ocr": "13\"\n\n(a)\n\n(b)\n\n\u2018Write a program that prompts the user to enter an integer and displays\nthe entered value times two as follows:\n\nEnter an integer: 5\n2*5=10\n\n< Hint: You'll need to place\nimport java.util. scanner;\n\nat the top of your program. The Scanner class has a method\nnext Int that reads an integer from the keyboard. For example:\n\nScanner keyboard\n\nnew Scanner (System. in);\nint n = keyboard.nextint ();\n\nUse\n\nsystem.out.printin(\"2 * \"+n +\" =\" + (n+ nF\n\nto display the result. >\n\nRemove the parentheses around n + n and test the program again.\nHow does the + operator work for text strings and for numbers? \u00a5\n",
+    "image": "data/images/ch2_ex13_0.png"
+  },
+  {
+    "chapter": 2,
+    "exercise": "14",
+    "ocr": "14. Name the two concepts that are central to object-oriented programming.\n",
+    "image": "data/images/ch2_ex14_0.png"
+  },
+  {
+    "chapter": 2,
+    "exercise": "15",
+    "ocr": "15.\n\n(a)\n\n(b)*\n\nThe program Red Cross (JM\\Ch02\\Exercises\\RedCross. java) is\nsupposed to display a red cross on a white background. However, it\nhas a bug. Find and fix the bug.\n\nUsing Redcross . java as a prototype, write a program that displays\n\noO\n\nin the middle of the window. \u00a2 Hint: the Graphics class has a\nmethod \u00a311 10va1; its parameters are the same as in the drawRect\n\nmethod for an oval inscribed into the rectangle. =\n\n",
+    "image": "data/images/ch2_ex15_0.png"
+  },
+  {
+    "chapter": 9,
+    "exercise": "1",
+    "ocr": "(a) Write a statement that declares an array of three integers initialized to\n1,2,and4. \u00a5\n\n(b) Write an expression that represents the sum of the three elements of the\nabove array (regardless of their current values).\n",
+    "image": "data/images/ch9_ex1_0.png"
+  },
+  {
+    "chapter": 2,
+    "exercise": "16",
+    "ocr": "Mark true or false and explain:\n\n(a)\n\n(b)\n\n(\u00a9)\n\n(d)\n\nThe following array has 101 elements:\nint[] x = new int [100]; v\n\nJava syntax allows programmers to use any expression of the int data\ntype as an array subscript.\n\nWhile a program is running, it verifies that all array subscripts fall into\nthe valid range. v\n\nAny one-dimensional array object has a Length method that returns\nthe size of the array. v\n",
+    "image": "data/images/ch2_ex16_0.png"
+  },
+  {
+    "chapter": 2,
+    "exercise": "2",
+    "ocr": "Mark true or false and explain:\n\n(a)\n\n(b)\n\n(\u00a9)\n\n(d)\n\nThe following array has 101 elements:\nint[] x = new int [100]; v\n\nJava syntax allows programmers to use any expression of the int data\ntype as an array subscript.\n\nWhile a program is running, it verifies that all array subscripts fall into\nthe valid range. v\n\nAny one-dimensional array object has a Length method that returns\nthe size of the array. v\n",
+    "image": "data/images/ch2_ex2_0.png"
   }
 ]
