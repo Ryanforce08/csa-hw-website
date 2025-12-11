@@ -8,10 +8,18 @@
 </head>
 <body>
   <main>
-    <h1>Exercise lookup</h1>
+    <h1>Exercise Lookup</h1>
     <form id="lookup">
-      <label>Chapter<input id="chapter" type="number" required></label>
-      <label>Exercise<input id="exercise" type="text" required></label>
+      <label>Chapter: 
+        <select id="chapterSelect">
+          <option value="">Select Chapter</option>
+        </select>
+      </label>
+      <label>Exercise: 
+        <select id="exerciseSelect">
+          <option value="">Select Exercise</option>
+        </select>
+      </label>
       <button type="submit">Find</button>
       <button id="listAll" type="button">List all in chapter</button>
     </form>
